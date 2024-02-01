@@ -1,0 +1,13 @@
+{
+  "obstacles": [
+    {"x": 0, "y": 0, "width": 670, "height": 285},
+    {"x": 670, "y": 0, "width": 330, "height": 185},
+    {"x": 720, "y": 185, "width": 280, "height": 100},
+    {"x": 625, "y": 285, "width": 75, "height": 50},
+    {"x": 950, "y": 385, "width": 80, "height": 55},
+    {"x": 940, "y": 480, "width": 90, "height": 50},
+    {"x": 950, "y": 575, "width": 90, "height": 80},
+    {"x": 365, "y": 575, "width": 240, "height": 80},
+    {"x": 0, "y": 575, "width": 315, "height": 80}
+  ]
+}

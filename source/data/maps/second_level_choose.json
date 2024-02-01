@@ -1,0 +1,15 @@
+{
+  "information": {
+    "obstacles": [
+      {"x": 0, "y": 0, "width": 83, "height": 229},
+      {"x": 319, "y": 0, "width": 67, "height": 229},
+      {"x": 622, "y": 0, "width": 67, "height": 229},
+      {"x": 924, "y": 0, "width": 83, "height": 229}
+    ],
+    "passageways": [
+      {"x": 83, "y": 154, "width": 240, "height": 56},
+      {"x": 387, "y": 154, "width": 240, "height": 56},
+      {"x": 686, "y": 154, "width": 240, "height": 56}
+  ]
+  }
+}

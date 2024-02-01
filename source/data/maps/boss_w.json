@@ -1,0 +1,10 @@
+{
+  "information": {
+    "obstacles": [
+      {"x": 0, "y": 0, "width": 932, "height": 133},
+      {"x": 932, "y": 0, "width": 67, "height": 798},
+      {"x": 0, "y": 0, "width": 73, "height": 732},
+      {"x": 73, "y": 732, "width": 926, "height": 67}
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "information": {
+    "obstacles": [
+      {"x": 0, "y": 0, "width": 119, "height": 124},
+      {"x": 0, "y": 0, "width": 59, "height": 494},
+      {"x": 0, "y": 618, "width": 59, "height": 124},
+      {"x": 0, "y": 742, "width": 594, "height": 62},
+      {"x": 119, "y": 494, "width": 59, "height": 247},
+      {"x": 475, "y": 494, "width": 59, "height": 247},
+      {"x": 238, "y": 247, "width": 238, "height": 124},
+      {"x": 238, "y": 0, "width": 772, "height": 124},
+      {"x": 297, "y": 494, "width": 119, "height": 124},
+      {"x": 356, "y": 124, "width": 59, "height": 124},
+      {"x": 356, "y": 371, "width": 59, "height": 247},
+      {"x": 713, "y": 309, "width": 59, "height": 185},
+      {"x": 713, "y": 494, "width": 178, "height": 124},
+      {"x": 832, "y": 618, "width": 59, "height": 62},
+      {"x": 941, "y": 124, "width": 69, "height": 680},
+      {"x": 832, "y": 742, "width": 109, "height": 62},
+      {"x": 832, "y": 247, "width": 109, "height": 124}
+    ],
+    "passageways": [
+      {"x": 0, "y": 494, "width": 59, "height": 124},
+      {"x": 119, "y": 0, "width": 119, "height": 124},
+      {"x": 594, "y": 742, "width": 238, "height": 62}
+    ]
+  }
+}

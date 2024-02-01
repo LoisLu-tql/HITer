@@ -1,0 +1,22 @@
+{
+  "information": {
+    "obstacles": [
+      {"x": 0, "y": 0, "width": 47, "height": 226},
+      {"x": 0, "y": 381, "width": 109, "height": 422},
+      {"x": 69, "y": 322, "width": 40, "height": 59},
+      {"x": 109, "y": 567, "width": 59, "height": 237},
+      {"x": 168, "y": 567, "width": 59, "height": 155},
+      {"x": 188, "y": 319, "width": 119, "height": 155},
+      {"x": 307, "y": 319, "width": 218, "height": 402},
+      {"x": 426, "y": 134, "width": 99, "height": 185},
+      {"x": 129, "y": 0, "width": 158, "height": 227},
+      {"x": 287, "y": 72, "width": 59, "height": 155},
+      {"x": 426, "y": 0, "width": 277, "height": 52},
+      {"x": 604, "y": 134, "width": 99, "height": 340},
+      {"x": 703, "y": 319, "width": 238, "height": 165},
+      {"x": 703, "y": 196, "width": 89, "height": 41},
+      {"x": 782, "y": 72, "width": 158, "height": 165},
+      {"x": 604, "y": 556, "width": 337, "height": 247}
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="802285cf-6c4e-4237-814a-5bb053b79a05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hS96WDGTiOIOXO2oakmWnFZOaK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Hiter">
+    <configuration name="Hiter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RAHiter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hiter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RAHiter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Hiter" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="802285cf-6c4e-4237-814a-5bb053b79a05" name="Default Changelist" comment="" />
+      <created>1599993450307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599993450307</updated>
+      <workItem from="1599993451438" duration="67000" />
+      <workItem from="1599995729802" duration="15380000" />
+      <workItem from="1600062663195" duration="3857000" />
+      <workItem from="1600150036800" duration="101000" />
+      <workItem from="1600263348462" duration="6523000" />
+      <workItem from="1600410144756" duration="20076000" />
+      <workItem from="1600435764560" duration="72000" />
+      <workItem from="1600436314663" duration="239000" />
+      <workItem from="1600492340387" duration="13890000" />
+      <workItem from="1600575230460" duration="27000" />
+      <workItem from="1600575528408" duration="13446000" />
+      <workItem from="1600667672348" duration="2976000" />
+      <workItem from="1600828887013" duration="600000" />
+      <workItem from="1600840855434" duration="1678000" />
+      <workItem from="1600842667877" duration="10495000" />
+      <workItem from="1600871589570" duration="7435000" />
+      <workItem from="1600952192015" duration="7197000" />
+      <workItem from="1601018056823" duration="122000" />
+      <workItem from="1601018918031" duration="43000" />
+      <workItem from="1601054493157" duration="679000" />
+      <workItem from="1601139356080" duration="4229000" />
+      <workItem from="1601211060810" duration="1242000" />
+      <workItem from="1601444927083" duration="8000" />
+      <workItem from="1601444952425" duration="13993000" />
+      <workItem from="1602655291713" duration="12781000" />
+      <workItem from="1602684094435" duration="4840000" />
+      <workItem from="1602844655459" duration="12191000" />
+      <workItem from="1602859304460" duration="287000" />
+      <workItem from="1602865811593" duration="5481000" />
+      <workItem from="1602899123899" duration="6025000" />
+      <workItem from="1602934202327" duration="2566000" />
+      <workItem from="1602949643554" duration="5645000" />
+      <workItem from="1602986522539" duration="85000" />
+      <workItem from="1602986617440" duration="4459000" />
+      <workItem from="1603007885219" duration="420000" />
+      <workItem from="1603022039344" duration="7666000" />
+      <workItem from="1603160153948" duration="5240000" />
+      <workItem from="1603173735110" duration="1604000" />
+      <workItem from="1603199823750" duration="7512000" />
+      <workItem from="1603207451253" duration="8000" />
+      <workItem from="1603207680861" duration="1070000" />
+      <workItem from="1603247649714" duration="7026000" />
+      <workItem from="1603289468624" duration="8827000" />
+      <workItem from="1603332686179" duration="7896000" />
+      <workItem from="1603342198782" duration="11000" />
+      <workItem from="1603371587189" duration="6270000" />
+      <workItem from="1603432973848" duration="13002000" />
+      <workItem from="1603448173465" duration="12409000" />
+      <workItem from="1603504746777" duration="2704000" />
+      <workItem from="1603507581335" duration="12354000" />
+      <workItem from="1603522644456" duration="1618000" />
+      <workItem from="1603525330234" duration="1948000" />
+      <workItem from="1603688286393" duration="8614000" />
+      <workItem from="1603725376089" duration="3748000" />
+      <workItem from="1603730804931" duration="3448000" />
+      <workItem from="1603774766708" duration="1484000" />
+      <workItem from="1603810360222" duration="9000" />
+      <workItem from="1603812457964" duration="3242000" />
+      <workItem from="1603816119284" duration="50000" />
+      <workItem from="1603816183859" duration="9000" />
+      <workItem from="1603816966785" duration="812000" />
+      <workItem from="1603856041558" duration="55000" />
+      <workItem from="1603856268172" duration="6930000" />
+      <workItem from="1603866755257" duration="921000" />
+      <workItem from="1603868728633" duration="1904000" />
+      <workItem from="1603903662134" duration="87000" />
+      <workItem from="1603903816869" duration="62000" />
+      <workItem from="1603905154454" duration="356000" />
+      <workItem from="1603986278848" duration="559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601454324341">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1601454324341" />
+    <state x="494" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603768739657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="494" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1603768739657" />
+    <state x="536" y="234" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1474.864@62.0.1474.864" timestamp="1603690144655" />
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603022991702">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1474.864@62.0.1474.864" timestamp="1603022991702" />
+    <state x="551" y="338" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1601454376097">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="551" y="338" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/62.0.1474.864@62.0.1474.864" timestamp="1601454376097" />
+    <state x="597" y="200" key="FileChooserDialogImpl" timestamp="1603903851244">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="558" y="200" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603768690689" />
+    <state x="597" y="200" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1603903851244" />
+    <state x="580" y="187" key="FileChooserDialogImpl/63.0.1473.864@63.0.1473.864" timestamp="1600580227440" />
+    <state width="1431" height="156" key="GridCell.Tab.0.bottom" timestamp="1603903878017">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1232" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603773789338" />
+    <state width="1431" height="156" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1603903878017" />
+    <state width="1430" height="277" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="156" key="GridCell.Tab.0.center" timestamp="1603903878017">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1232" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603773789338" />
+    <state width="1431" height="156" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1603903878017" />
+    <state width="1430" height="277" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="156" key="GridCell.Tab.0.left" timestamp="1603903878017">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1232" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603773789338" />
+    <state width="1431" height="156" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1603903878017" />
+    <state width="1430" height="277" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="156" key="GridCell.Tab.0.right" timestamp="1603903878017">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1232" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603773789338" />
+    <state width="1431" height="156" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1603903878017" />
+    <state width="1430" height="277" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1603863680670">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1603863680670" />
+    <state width="1430" height="277" key="GridCell.Tab.1.bottom/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1603863680670">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1603863680670" />
+    <state width="1430" height="277" key="GridCell.Tab.1.center/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1603863680670">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1603863680670" />
+    <state width="1430" height="277" key="GridCell.Tab.1.left/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1603863680670">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1603863680670" />
+    <state width="1430" height="277" key="GridCell.Tab.1.right/63.0.1473.864@63.0.1473.864" timestamp="1600589140306" />
+    <state x="300" y="74" key="SettingsEditor" timestamp="1603903856151">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="300" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1603903856151" />
+    <state x="301" y="74" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1600270949580" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602658730113">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/62.0.1474.864@62.0.1474.864" timestamp="1602658730113" />
+    <state x="479" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1603986278828">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="479" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1603986278828" />
+    <state x="480" y="256" key="com.intellij.ide.util.TipDialog/63.0.1473.864@63.0.1473.864" timestamp="1600575530832" />
+    <state x="564" y="221" width="642" height="534" key="find.popup" timestamp="1603862710020">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="564" y="221" width="642" height="534" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1603862710020" />
+    <state x="462" y="181" width="673" height="678" key="search.everywhere.popup" timestamp="1603870591947">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="673" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1603870591947" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/63.0.1473.864@63.0.1473.864" timestamp="1600417918122" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hiter_code$Hiter.coverage" NAME="Hiter Coverage Results" MODIFIED="1603903862020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RAHiter$main.coverage" NAME="main Coverage Results" MODIFIED="1603816142853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RAHiter$Hiter.coverage" NAME="Hiter Coverage Results" MODIFIED="1603870605900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

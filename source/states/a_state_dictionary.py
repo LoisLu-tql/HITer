@@ -1,0 +1,42 @@
+from source.states import main_menu, choose_character, tutorial, view_note, transition, tips
+from source.states.firstlevel import first_level_1, first_level_2, first_level_3, first_level_boss
+from source.states.secondlevel import second_level_choose, boss_h, boss_s, boss_w
+from source.states.thirdlevel import third_level_1, third_level_2, third_level_3, third_level_4, third_level_boss
+
+state_dict = {
+        'main_menu': main_menu.MainMenu(),
+        'view_note': view_note.ViewNote(),
+        'game_over': transition.GameOver(),
+        'sure': transition.Sure(),
+        'choose_character': choose_character.ChooseCharacter(),
+        'tip1': tips.Tip1(),
+        'tutorial': tutorial.Tutorial(),
+        'tip2': tips.Tip2(),
+        'tip3': tips.Tip3(),
+        'first_level_1': first_level_1.FirstLevel1(),
+        'first_level_2': first_level_2.FirstLevel2(),
+        'first_level_3': first_level_3.FirstLevel3(),
+        'tip4': tips.Tip4(),
+        'first_level_boss': first_level_boss.FirstLevel(),
+        'tip5': tips.Tip5(),
+        'tip6': tips.Tip6(),
+        'second_level_choose': second_level_choose.SecondLevelChoose(),
+        'tip7h': tips.Tip7h(),
+        'boss_h': boss_h.BossH(),
+        'tip8h': tips.Tip8h(),
+        'tip7s': tips.Tip7s(),
+        'boss_s': boss_s.BossS(),
+        'tip8s': tips.Tip8s(),
+        'tip7w': tips.Tip7w(),
+        'boss_w': boss_w.BossW(),
+        'tip8w': tips.Tip8w(),
+        'tip9': tips.Tip9(),
+        'third_level_1': third_level_1.ThirdLevel1(),
+        'third_level_2': third_level_2.ThirdLevel2(),
+        'third_level_3': third_level_3.ThirdLevel3(),
+        'third_level_4': third_level_4.ThirdLevel4(),
+        'tip10': tips.Tip10(),
+        'third_level_boss': third_level_boss.ThirdLevel(),
+        'tip11': tips.Tip11(),
+        'win': transition.Win(),
+    }

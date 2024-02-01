@@ -1,0 +1,38 @@
+{
+  "image_frames": {
+    "walk": [
+      {"x": 0, "y": 0, "width": 48, "height": 48},
+      {"x": 48, "y": 0, "width": 48, "height": 48},
+      {"x": 96, "y": 0, "width": 48, "height": 48},
+      {"x": 0, "y": 48, "width": 48, "height": 48},
+      {"x": 48, "y": 48, "width": 48, "height": 48},
+      {"x": 96, "y": 48, "width": 48, "height": 48},
+      {"x": 0, "y": 96, "width": 48, "height": 48},
+      {"x": 48, "y": 96, "width": 48, "height": 48},
+      {"x": 96, "y": 96, "width": 48, "height": 48},
+      {"x": 0, "y": 144, "width": 48, "height": 48},
+      {"x": 48, "y": 144, "width": 48, "height": 48},
+      {"x": 96, "y": 144, "width": 48, "height": 48}
+    ],
+    "die": [
+      {"x": 0, "y": 0, "width": 48, "height": 48},
+      {"x": 48, "y": 0, "width": 48, "height": 48},
+      {"x": 96, "y": 0, "width": 48, "height": 48}
+    ]
+  },
+  "Harry": {
+    "health_point": 110,
+    "vel": 10,
+    "damage": 0
+  },
+  "Sheeran": {
+    "health_point": 100,
+    "vel": 12,
+    "damage": 0
+  },
+  "Will": {
+    "health_point": 100,
+    "vel": 10,
+    "damage": 5
+  }
+}

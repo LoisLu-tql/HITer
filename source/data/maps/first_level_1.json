@@ -1,0 +1,18 @@
+{
+  "information": {
+    "obstacles": [
+      {"x": 0, "y": 0, "width": 60, "height": 122},
+      {"x": 116, "y": 0, "width": 707, "height": 122},
+      {"x": 882, "y": 0, "width": 59, "height": 122},
+      {"x": 941, "y": 0, "width": 59,  "height": 306},
+      {"x": 941, "y": 490, "width": 59, "height": 306},
+      {"x": 0, "y": 184, "width": 59, "height": 490},
+      {"x": 0, "y": 734, "width": 353, "height": 61},
+      {"x": 529, "y": 734, "width": 412, "height": 61}
+    ],
+    "passageways": [
+      {"x": 941, "y": 306, "width": 59, "height": 184},
+      {"x": 353, "y": 734, "width": 176, "height": 61}
+  ]
+  }
+}
